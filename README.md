@@ -1,1 +1,1 @@
-# rubberducky_payloads
+Payloads for USB Rubber Ducky device
